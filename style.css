@@ -1,0 +1,102 @@
+body {
+  font-family: system-ui, system-ui, sans-serif;
+  font-size: 81.25%;
+  margin: 0px;
+}
+
+.orange-color {
+  color: orange;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+h3 {
+  font-weight: bold;
+  color: grey;
+}
+.flxible-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.content {
+  margin-top: 150px;
+  padding-left: 100px;
+}
+
+.order-button {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background-image: linear-gradient(orange, tomato);
+  padding: 20px 40px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+.order-div {
+  margin-top: 55px;
+}
+
+/* #image-bg {
+  background-image: url(images/female/Group\ 8425.png);
+  background-repeat: no-repeat;
+  background-position: left;
+} */
+
+/* css second div start */
+
+.image-div img {
+  width: 50%;
+  padding-left: 184px;
+}
+
+.content-area {
+  margin-top: 100px;
+  text-align: justify;
+  padding-right: 50px;
+  padding-left: 80px;
+}
+
+#bg-img {
+  background-image: url(images/shapes/7.png);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.click-button {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  background-image: linear-gradient(orange, tomato);
+  padding: 20px 40px;
+  font-size: 15px;
+  border-radius: 10px;
+}
+
+.recipie {
+  text-align: center;
+}
+.flex {
+  display: flex;
+  margin-bottom: 150px;
+}
+.container {
+  width: 50%;
+  padding-left: 4.3%;
+  box-shadow: 10px 10px 20px grey;
+  border-radius: 5%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 5%;
+}
+.container img {
+  width: 520px;
+  height: 285px;
+  padding-top: 27px;
+}
+
+/* end css second section */
+/* 3rd section is  css */
